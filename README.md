@@ -9,9 +9,12 @@ Lab practicals for the course. Each practical lives in its own folder.
 |---|---|---|
 | P01 | Your MLOps Workbench | [`P01_lab/`](P01_lab/) |
 | P02 | Your First Honest Model | [`P02_lab/`](P02_lab/) |
+| P03 | Choosing a Model Honestly | [`P03_lab/`](P03_lab/) |
 
 **Student:** Lakhan Gupta · S24CSEU0067
 
 **P01 report (PDF):** [`P01_lab/P01_S24CSEU0067.pdf`](P01_lab/P01_S24CSEU0067.pdf) — cell-by-cell outputs, self-check 7/7
 
 **P02 report (PDF):** [`P02_lab/P02_S24CSEU0067.pdf`](P02_lab/P02_S24CSEU0067.pdf) — cell-by-cell outputs, self-check 9/9
+
+**P03 report (PDF):** [`P03_lab/P03_S24CSEU0067.pdf`](P03_lab/P03_S24CSEU0067.pdf) — cell-by-cell outputs, self-check 8/8
